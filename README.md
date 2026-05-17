@@ -162,27 +162,12 @@ https://github.com/AvaneeshYajurvedi/AI-Based-Deepfake-Detection-System-For-Medi
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riteshubale-01/riteshubale-01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/riteshubale-01/riteshubale-01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riteshubale-01&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌆 GitHub Skyline
-
-Explore my GitHub contribution skyline:
-https://skyline.github.com/
 
 ---
 
