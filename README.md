@@ -61,7 +61,15 @@ Google Student Ambassador 2026 | Technical Member @ DPGU ACM Student Chapter | B
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### AI / ML
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### AIML
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
@@ -153,4 +161,4 @@ https://github.com/AvaneeshYajurvedi/AI-Based-Deepfake-Detection-System-For-Medi
 
 ---
 
-⭐ Building, competing, and learning one project at a time.
+⭐ Building, competing, and learning.
