@@ -65,7 +65,7 @@ Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 💻 Technical Member
 **DPGU ACM Student Chapter**
@@ -74,7 +74,7 @@ Contributing to technical initiatives, coding activities, and community-driven e
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 🚀 Event Head
 **Hack Carnival**
@@ -83,12 +83,22 @@ Led coordination and execution of a 12-hour hackathon organized under ACM.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### ⚡ Organizer & Contributor
 **OBSIDIAN Coding Contest**
 
 Actively contributing towards organizing the monthly coding contest by DPGU ACM.
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🌐 Google Student Ambassador
+**DPGU School Of Technology & Research**
+
+Representing the institution as a Google Student Ambassador.  
+**GID:** 3884
 
 </td>
 </tr>
