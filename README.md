@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ritesh%20Ubale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Hackathon%20Builder%20|%20Tech%20Community%20Contributor&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ritesh%20Ubale&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Hackathon%20Builder%20|%20Tech%20Community%20Contributor&descAlignY=58&descAlign=50" width="100%" />
 
 <h3 align="center">
 Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ DPGU STR
@@ -10,11 +10,25 @@ Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Hackathon+Builder;Problem+Solver;Tech+Community+Contributor;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/riteshubale-01">
+    <img src="https://img.shields.io/github/followers/riteshubale-01?label=Followers&style=for-the-badge&color=181717&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ritesh-ubale-359b6a377/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/riteshubale563">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
@@ -32,19 +46,23 @@ Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 B.Tech CSE student at **DPGU STR**
-- 🤖 Passionate about **AI/ML** and building real-world technology solutions
-- 🏆 Secured **2nd Place Overall** in Tech Rush Coding Competition by KRYPTONEX Club
-- 🌱 Currently learning **C++, DSA, Artificial Intelligence & Machine Learning**
-- ⚡ Active participant in hackathons, coding contests, and technical communities
+<div align="center">
 
----
+🎓 B.Tech CSE student at **DPGU STR**  
+🤖 Passionate about **AI/ML** and real-world technology solutions  
+🏆 Secured **2nd Place Overall** in Tech Rush Coding Competition  
+🌱 Currently learning **C++, DSA, Artificial Intelligence & Machine Learning**  
+⚡ Active participant in hackathons, coding contests, and technical communities  
 
-## 🧠 Hackathons & Competitions
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
+
+<h2 align="center">🧠 Hackathons & Competitions</h2>
 
 | Hackathon / Competition | Year | Role / Achievement | Project / Solution |
 |---|---|---|---|
@@ -59,9 +77,9 @@ Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ 
 | 🔐 Smart India Hackathon | 2025 | Internally Shortlisted | Cybersecurity Framework for Rural Digital Banking |
 | 🌊 La Trobe Technology Infusion Grand Challenge | 2026 | Ongoing Project | AI Assisted Underwater Garbage Cleaner |
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
-## 🏅 Leadership & Community
+<h2 align="center">🏅 Leadership & Community</h2>
 
 <table>
 <tr>
@@ -104,9 +122,9 @@ Representing the institution as a Google Student Ambassador.
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
-## ⚙️ Tech Stack
+<h2 align="center">⚙️ Tech Stack</h2>
 
 <div align="center">
 
@@ -150,70 +168,57 @@ Representing the institution as a Google Student Ambassador.
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
-## 🌟 Featured Projects
+<h2 align="center">🌟 Featured Projects</h2>
 
-### 🌍 OpenEnv Warehouse RL
-AI-powered warehouse optimization system using Reinforcement Learning for intelligent logistics and automation.
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🌍 OpenEnv Warehouse RL | AI-powered warehouse optimization system using Reinforcement Learning for intelligent logistics automation | Python, Reinforcement Learning |
+| 🛡️ AI-Based Deepfake Detection System | Machine learning based media authentication system for detecting manipulated and deepfake content | Python, AI/ML |
+| 🌐 3D Code Dependency Visualizer | Interactive visualization system for understanding relationships within codebases | JavaScript, Visualization |
+| 💬 AI Sentiment Analysis Application | AI-driven sentiment analysis platform for analyzing textual feedback and emotions | Python, NLP |
+| 🌊 AI Assisted Underwater Garbage Cleaner | AI-powered underwater waste detection and cleaning solution | AI/ML, Automation |
 
-🔗 Repository:  
-https://github.com/riteshubale-01/team-genesis-openenv-warehouse-rl
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
----
-
-### 🛡️ AI-Based Deepfake Detection System
-Machine learning based media authentication system designed to detect manipulated and deepfake content.
-
-🔗 Repository:  
-https://github.com/AvaneeshYajurvedi/AI-Based-Deepfake-Detection-System-For-Media-Authentication
-
----
-
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riteshubale-01&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riteshubale-01&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=riteshubale-01&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshubale-01&theme=tokyonight" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshubale-01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshubale-01&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
----
+<h2 align="center">💻 Coding Profiles</h2>
 
-## 💻 Coding Profiles
+<div align="center">
 
-<p align="left">
-
-<a href="https://www.hackerrank.com/profile/riteshubale563" target="blank">
+<a href="https://www.hackerrank.com/profile/riteshubale563" target="_blank">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
 
-</p>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212750221-97a6f0a4-c8b4-4f14-9f8c-7f7b2b1f8f58.gif" width="100%">
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/riteshubale-01/riteshubale-01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=riteshubale-01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=riteshubale-01&label=Profile%20Views&color=58A6FF&style=flat" alt="profile views" />
 </p>
 
----
-
-⭐ Building, competing, and learning.
+<p align="center">
+  <i>"Building systems that are intelligent, scalable, and impactful."</i>
+</p>
