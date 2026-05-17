@@ -22,14 +22,15 @@ Google Student Ambassador 2026 | Technical Member @ DPGU ACM Student Chapter | B
 
 ## 🧠 Hackathons & Competitions
 
-- Ignition Hackverse 2026 by PVG Pune
-- Odoo Hackathon @ VIT Pune
+- Tech Rush by Kryptonex Technical & Innovation Club (2nd Place Overall)
+- Ignition Hackverse 2026 by PVG Pune (Finalist)
+- Odoo Hackathon @ VIT Pune (Finalist)
 - Meta × Scaler School of Technology Hackathon
 - IBM Dev Day: AI Demystified
 - TechVortex 3.0
 - Vortexa 2.0
 - Suvidha Smart City Kiosk Challenge
-- Smart India Hackathon 2025
+- Smart India Hackathon 2025 (Internally Shortlisted)
 - La Trobe Technology Infusion Grand Challenge 2026
 
 ---
@@ -106,14 +107,6 @@ https://github.com/AvaneeshYajurvedi/AI-Based-Deepfake-Detection-System-For-Medi
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshubale-01&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riteshubale-01&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
