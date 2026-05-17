@@ -164,16 +164,10 @@ Representing the institution as a Google Student Ambassador.
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=riteshubale-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=riteshubale-01&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshubale-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshubale-01&theme=tokyonight" /> 
 </p>
 
 ---
