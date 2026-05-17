@@ -46,16 +46,18 @@ Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ 
 
 ## 🧠 Hackathons & Competitions
 
-- Tech Rush by Kryptonex Technical & Innovation Club (2nd Place Overall)
-- Ignition Hackverse 2026 by PVG Pune (Finalist)
-- Odoo Hackathon @ VIT Pune (Finalist)
-- Meta × Scaler School of Technology Hackathon
-- IBM Dev Day: AI Demystified
-- TechVortex 3.0
-- Vortexa 2.0
-- Suvidha Smart City Kiosk Challenge
-- Smart India Hackathon 2025 (Internally Shortlisted)
-- La Trobe Technology Infusion Grand Challenge 2026
+| Hackathon / Competition | Year | Role / Achievement | Project / Solution |
+|---|---|---|---|
+| 🏆 Tech Rush by Kryptonex Technical & Innovation Club | 2026 | 2nd Place Overall | Competitive Coding Contest |
+| 🔥 Ignition Hackverse by PVG Pune | 2026 | Finalist | DeepFake Detection Model |
+| 📅 Odoo Hackathon @ VIT Pune | 2026 | Finalist | Appointment Booking Application |
+| 📦 Meta × Scaler School of Technology Hackathon | 2026 | Participant | OpenEnv Warehouse RL Simulation |
+| 🧠 IBM Dev Day: AI Demystified | 2026 | Participant | AI/ML Exploration |
+| 🌐 TechVortex 3.0 | 2026 | Participant | 3D Code Dependency Visualizer |
+| 💬 Vortexa 2.0 | 2026 | Participant | AI Sentiment Analysis Application |
+| 🏙️ Suvidha Smart City Kiosk Challenge | 2025 | Participant | Smart Urban Virtual Interactive Digital Helpdesk Assistant |
+| 🔐 Smart India Hackathon | 2025 | Internally Shortlisted | Cybersecurity Framework for Rural Digital Banking |
+| 🌊 La Trobe Technology Infusion Grand Challenge | 2026 | Ongoing Project | AI Assisted Underwater Garbage Cleaner |
 
 ---
 
