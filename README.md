@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋, I'm Ritesh Ubale</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ritesh%20Ubale&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Hackathon%20Builder%20|%20Tech%20Community%20Contributor&descAlignY=55&descAlign=50" width="100%" />
 
 <h3 align="center">
-Google Student Ambassador 2026 | Technical Member @ DPGU ACM Student Chapter | B.Tech CSE @ DPGU STR | Tech Enthusiast
+Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ DPGU STR
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Hackathon+Builder;Problem+Solver;Tech+Community+Contributor;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Hackathon+Builder;Problem+Solver;Tech+Community+Contributor;Always+Learning+New+Things" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/riteshubale-01">
+    <img src="https://img.shields.io/github/followers/riteshubale-01?label=Followers&style=for-the-badge&color=181717&logo=github" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ritesh-ubale-359b6a377/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/riteshubale563">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -15,7 +33,7 @@ Google Student Ambassador 2026 | Technical Member @ DPGU ACM Student Chapter | B
 - 🎓 B.Tech CSE student at **DPGU STR**
 - 🤖 Passionate about **AI/ML** and building real-world technology solutions
 - 🏆 Secured **2nd Place Overall** in Tech Rush Coding Competition by KRYPTONEX Club
-- 🌱 Currently learning **C++, DSA, AI Systems & Reinforcement Learning**
+- 🌱 Currently learning **C++, DSA, Artificial Intelligence & Machine Learning**
 - ⚡ Active participant in hackathons, coding contests, and technical communities
 
 ---
@@ -143,19 +161,27 @@ https://github.com/AvaneeshYajurvedi/AI-Based-Deepfake-Detection-System-For-Medi
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/ritesh-ubale-359b6a377/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/ritesh-ubale-359b6a377/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/riteshubale-01" target="blank">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/riteshubale-01" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+<a href="https://www.hackerrank.com/profile/riteshubale563" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 
 ---
 
