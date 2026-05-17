@@ -54,7 +54,7 @@ Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ 
 | 📦 Meta × Scaler School of Technology Hackathon | 2026 | Participant | OpenEnv Warehouse RL Simulation |
 | 🧠 IBM Dev Day: AI Demystified | 2026 | Participant | AI/ML Exploration |
 | 🌐 TechVortex 3.0 | 2026 | Participant | 3D Code Dependency Visualizer |
-| 💬 Vortexa 2.0 | 2026 | Participant | AI Sentiment Analysis Application |
+| 💬 Vortexa 2.0 | 2025 | Participant | AI Sentiment Analysis Application |
 | 🏙️ Suvidha Smart City Kiosk Challenge | 2025 | Participant | Smart Urban Virtual Interactive Digital Helpdesk Assistant |
 | 🔐 Smart India Hackathon | 2025 | Internally Shortlisted | Cybersecurity Framework for Rural Digital Banking |
 | 🌊 La Trobe Technology Infusion Grand Challenge | 2026 | Ongoing Project | AI Assisted Underwater Garbage Cleaner |
@@ -63,9 +63,36 @@ Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ 
 
 ## 🏅 Leadership & Community
 
-- Technical Member at **DPGU ACM Student Chapter**
-- Event Head of **Hack Carnival**, a 12-hour hackathon organized under ACM
-- Active contributor to **OBSIDIAN**, a monthly coding contest organized by DPGU ACM
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Technical Member
+**DPGU ACM Student Chapter**
+
+Contributing to technical initiatives, coding activities, and community-driven events.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 Event Head
+**Hack Carnival**
+
+Led coordination and execution of a 12-hour hackathon organized under ACM.
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ Organizer & Contributor
+**OBSIDIAN Coding Contest**
+
+Actively contributing towards organizing the monthly coding contest by DPGU ACM.
+
+</td>
+</tr>
+</table>
 
 ---
 
