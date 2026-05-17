@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ritesh%20Ubale&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Hackathon%20Builder%20|%20Tech%20Community%20Contributor&descAlignY=58&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ritesh%20Ubale&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Enthusiast%20|%20Tech%20Enthusiast%20|%20B.Tech%20CSE%20@%20DPGU%20STR&descAlignY=58&descAlign=50" width="100%" />
 
 <h3 align="center">
-Google Student Ambassador 2026 • Technical Member @ DPGU ACM • B.Tech CSE @ DPGU STR
+Google Student Ambassador 2026 • Technical Member @ DPGU ACM 
 </h3>
 
 <p align="center">
@@ -220,5 +220,5 @@ Representing the institution as a Google Student Ambassador.
 </p>
 
 <p align="center">
-  <i>"Building systems that are intelligent, scalable, and impactful."</i>
+  <i>"Building, Learning & Competing."</i>
 </p>
