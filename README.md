@@ -63,95 +63,104 @@ I'm **Ritesh Ramesh Ubale**, a **2nd Year B.Tech Computer Science & Engineering 
 
 # 🚀 Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 🤖 OpenEnv Warehouse RL
 
 AI-powered warehouse optimization system using **Reinforcement Learning** to improve logistics, resource allocation, and warehouse decision-making.
 
-**Focus:** Reinforcement Learning • AI • Optimization • Simulation
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🛡️ AI-Based Deepfake Detection System
+### 🛡️ AI-Based Deepfake Detection
 
 Machine-learning-based media authentication system designed to identify manipulated and deepfake content.
 
-**Focus:** AI/ML • Computer Vision • Media Authentication
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌐 3D Code Dependency Visualizer
 
-Interactive visualization system that represents relationships and dependencies within software codebases in a 3D environment.
+Interactive 3D visualization system for understanding relationships and dependencies within software codebases.
 
-**Focus:** JavaScript • Visualization • Software Engineering
+</td>
 
----
+<td width="50%" valign="top">
 
-### 💬 AI Sentiment Analysis Application
+### 💬 AI Sentiment Analysis
 
-AI-driven application for analyzing textual feedback, identifying sentiment, and extracting useful insights from user-generated content.
+AI-driven application for analyzing textual feedback, identifying sentiment, and extracting meaningful insights from user-generated content.
 
-**Focus:** Python • NLP • Machine Learning
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🌊 AI-Assisted Underwater Garbage Cleaner
 
 AI-powered solution designed to identify underwater waste and assist automated systems in detecting and cleaning marine garbage.
 
-**Focus:** AI/ML • Computer Vision • Automation • Environmental Technology
+</td>
 
----
+<td width="50%" valign="top">
 
-### 🔐 ACM Secure Browser Anti-Cheating Exam System
+### 🔐 ACM Secure Browser
 
-A restricted browser built for live competitive coding contests that limits participants to **HackerRank**, helping maintain controlled and fair competition environments.
+Restricted browser built for live competitive coding contests, limiting participants to **HackerRank** to maintain controlled and fair competition environments.
 
-**Focus:** Browser Security • Competitive Programming • Event Technology
+</td>
 
----
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🤟 SignBot
 
-A browser extension that listens to live lectures, converts speech into text in real time, and drives a **3D avatar that renders Indian Sign Language**.
+Browser extension that converts live lecture speech into text in real time and drives a **3D avatar rendering Indian Sign Language**, improving accessibility in online lectures and video calls.
 
-The goal is to make online lectures and video calls more accessible without requiring teachers to install additional software.
+</td>
 
-**Focus:** Speech-to-Text • Accessibility • Browser Extension • 3D Avatar • Indian Sign Language
+<td width="50%" valign="top">
 
----
+### 💰 Reimbursement Management
 
-### 💰 Reimbursement Management Platform
+Smart platform that automates expense submission, approval, and tracking with **OCR receipt scanning, role-based access, multi-level workflows, conditional approvals, and currency conversion**.
 
-Smart reimbursement management platform that automates expense submission, approval, and tracking.
+</td>
 
-Features include:
+</tr>
 
-* Multi-level approval workflows
-* Conditional approvals
-* Role-based access control
-* OCR-based receipt scanning
-* Currency conversion
-* Expense tracking
+<tr>
 
-**Focus:** Automation • OCR • Workflow Management • RBAC
+<td width="50%" valign="top">
 
----
+### 💧 Smart Water Monitoring
 
-### 💧 Smart Water Monitoring System
+IoT-based system that monitors water supply, tank levels, and consumption in real time, with alerts, historical analytics, optional pump automation, and water-quality monitoring.
 
-IoT-based water monitoring system that uses sensors to detect water supply, monitor tank levels, and track consumption in real time.
+</td>
 
-Features include:
+<td width="50%" valign="top">
 
-* Real-time water-level monitoring
-* Usage tracking
-* Instant alerts
-* Historical analytics
-* Optional pump automation
-* Optional water-quality monitoring
+</td>
 
-**Focus:** IoT • Sensors • Automation • Real-Time Monitoring
+</tr>
+
+</table>
 
 ---
 
